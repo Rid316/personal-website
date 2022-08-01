@@ -35,6 +35,11 @@ ul {
     font-size: 60%;
 }
 
+a {
+    text-decoration: none;
+    color: black
+}
+
 p a {
     color: palevioletred;
 }
@@ -44,7 +49,7 @@ p a {
     font-size: 40px;
     background-color: white;
     display: flex;
-    height: 40px;
+    height: 35px;
     padding-top: 20px;
     margin-left: -20px;
     margin-right: -20px;
@@ -53,5 +58,5 @@ p a {
 }
 
 .item:hover {
-   color: skyblue;
+   color: grey
 }
